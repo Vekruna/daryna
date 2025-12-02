@@ -1,7 +1,6 @@
 #i/bin/bash
 
-filname="file.md"
+# filename="file.md"
+# touch > $filename
 
-cat > "$filname" <<EOF
-
-exit 1
+touch file.md
