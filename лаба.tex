@@ -4,6 +4,9 @@
 \usepackage[ukrainian]{babel}
 \usepackage{setspace}
 \usepackage{geometry}
+\usepackage{multirow}
+\usepackage{tabularx}
+\usepackage{graphicx}
 
 \geometry{
     left=25mm,
@@ -61,7 +64,49 @@
 \newpage
 
 \begin{center}
-    \textbf{ТАБЛИЦЯ ОЦІНЮВАННЯ}\\[100px]
+    \Large \textbf{ТАБЛИЦЯ ОЦІНЮВАННЯ}\\[100px]
 \end{center}
+
+\vspace{1em}
+
+\begin{tabularx}{\textwidth}{|p{1.5cm}|c|c|X|} 
+\hline
+\textbf{Розділ і тема} &\textbf{Завдання} & \textbf{Оцінка за завдання} & \textbf{Підпис керівника практики} \\ 
+\hline
+
+% Перший блок (1. Робота в середовищі...)
+\multirow{10}{*}{\rotatebox{90}{}} 
+
+& ЛР 1 & & \\ 
+\cline{2-4}
+& & & \\ 
+\cline{2-4}
+& & & \\ 
+\cline{2-4}
+& & & \\ 
+\cline{2-4}
+& & & \\ 
+\cline{2-4}
+& & & \\ 
+\cline{2-4}
+& & & \\ 
+\cline{2-4}
+& & & \\ 
+\cline{2-4}
+& & & \\ 
+\hline
+
+% Оформлення звіту
+\multicolumn{2}{|c|}{\textbf{Оформлення звіту}} & & \\ 
+\hline
+
+% Захист звіту
+\multicolumn{2}{|c|}{\textbf{Захист звіту}} & & \\ 
+\hline
+
+% Підсумкова оцінка
+\multicolumn{3}{|c|}{\textbf{Підсумкова оцінка за навчальну практику}} & \\ 
+\hline
+\end{tabularx}
 
 \end{document}
