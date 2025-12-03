@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.6.3)  3 DEC 2025 20:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.6.3)  3 DEC 2025 20:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -559,73 +559,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--65
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-/home/vadym/Desktop/daryna/лаба.tex:96: Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.96 ...ow{1}{*}{} & \underline{{ЛР 1}\hspace{}}
-                                                   & & \\
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/home/vadym/Desktop/daryna/лаба.tex:96: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.96 ...ow{1}{*}{} & \underline{{ЛР 1}\hspace{}}
-                                                   & & \\
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-/home/vadym/Desktop/daryna/лаба.tex:97: Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.97 ...ow{1}{*}{} & \underline{{ЛР 2}\hspace{}}
-                                                   & & \\
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/home/vadym/Desktop/daryna/лаба.tex:97: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.97 ...ow{1}{*}{} & \underline{{ЛР 2}\hspace{}}
-                                                   & & \\
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-/home/vadym/Desktop/daryna/лаба.tex:98: Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.98 ...ow{1}{*}{} & \underline{{ЛР 3}\hspace{}}
-                                                   & & \\
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/home/vadym/Desktop/daryna/лаба.tex:98: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.98 ...ow{1}{*}{} & \underline{{ЛР 3}\hspace{}}
-                                                   & & \\
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
 /home/vadym/Desktop/daryna/лаба.tex:99: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.99 ...ow{1}{*}{} & \underline{{ЛР 4}\hspace{}}
+l.99 ...ow{1}{*}{} & \underline{{ЛР 1}\hspace{}}
                                                    & & \\
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -634,28 +571,7 @@ look up `weird error' in the index to The TeXbook.)
 /home/vadym/Desktop/daryna/лаба.tex:99: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.99 ...ow{1}{*}{} & \underline{{ЛР 4}\hspace{}}
-                                                   & & \\
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-/home/vadym/Desktop/daryna/лаба.tex:100: Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.100 ...w{1}{*}{} & \underline{{ЛР 5}\hspace{}}
-                                                   & & \\
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/home/vadym/Desktop/daryna/лаба.tex:100: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.100 ...w{1}{*}{} & \underline{{ЛР 5}\hspace{}}
+l.99 ...ow{1}{*}{} & \underline{{ЛР 1}\hspace{}}
                                                    & & \\
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -667,7 +583,7 @@ two letters. (See Chapter 27 of The TeXbook.)
 /home/vadym/Desktop/daryna/лаба.tex:101: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.101 ...w{1}{*}{} & \underline{{ЛР 6}\hspace{}}
+l.101 ...w{1}{*}{} & \underline{{ЛР 2}\hspace{}}
                                                    & & \\
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -676,28 +592,7 @@ look up `weird error' in the index to The TeXbook.)
 /home/vadym/Desktop/daryna/лаба.tex:101: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.101 ...w{1}{*}{} & \underline{{ЛР 6}\hspace{}}
-                                                   & & \\
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-/home/vadym/Desktop/daryna/лаба.tex:102: Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.102 ...w{1}{*}{} & \underline{{ЛР 7}\hspace{}}
-                                                   & & \\
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/home/vadym/Desktop/daryna/лаба.tex:102: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.102 ...w{1}{*}{} & \underline{{ЛР 7}\hspace{}}
+l.101 ...w{1}{*}{} & \underline{{ЛР 2}\hspace{}}
                                                    & & \\
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -709,7 +604,7 @@ two letters. (See Chapter 27 of The TeXbook.)
 /home/vadym/Desktop/daryna/лаба.tex:103: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.103 ...w{1}{*}{} & \underline{{ЛР 8}\hspace{}}
+l.103 ...w{1}{*}{} & \underline{{ЛР 3}\hspace{}}
                                                    & & \\
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -718,28 +613,7 @@ look up `weird error' in the index to The TeXbook.)
 /home/vadym/Desktop/daryna/лаба.tex:103: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.103 ...w{1}{*}{} & \underline{{ЛР 8}\hspace{}}
-                                                   & & \\
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-/home/vadym/Desktop/daryna/лаба.tex:104: Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.104 ...w{1}{*}{} & \underline{{ЛР 9}\hspace{}}
-                                                   & & \\
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/home/vadym/Desktop/daryna/лаба.tex:104: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.104 ...w{1}{*}{} & \underline{{ЛР 9}\hspace{}}
+l.103 ...w{1}{*}{} & \underline{{ЛР 3}\hspace{}}
                                                    & & \\
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -751,7 +625,7 @@ two letters. (See Chapter 27 of The TeXbook.)
 /home/vadym/Desktop/daryna/лаба.tex:105: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.105 ...{1}{*}{} & \underline{{ЛР 10}\hspace{}}
+l.105 ...w{1}{*}{} & \underline{{ЛР 4}\hspace{}}
                                                    & & \\
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -760,28 +634,7 @@ look up `weird error' in the index to The TeXbook.)
 /home/vadym/Desktop/daryna/лаба.tex:105: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.105 ...{1}{*}{} & \underline{{ЛР 10}\hspace{}}
-                                                   & & \\
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-/home/vadym/Desktop/daryna/лаба.tex:106: Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.106 ...{1}{*}{} & \underline{{ЛР 11}\hspace{}}
-                                                   & & \\
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/home/vadym/Desktop/daryna/лаба.tex:106: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.106 ...{1}{*}{} & \underline{{ЛР 11}\hspace{}}
+l.105 ...w{1}{*}{} & \underline{{ЛР 4}\hspace{}}
                                                    & & \\
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -793,7 +646,7 @@ two letters. (See Chapter 27 of The TeXbook.)
 /home/vadym/Desktop/daryna/лаба.tex:107: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.107 ...{1}{*}{} & \underline{{ЛР 12}\hspace{}}
+l.107 ...w{1}{*}{} & \underline{{ЛР 5}\hspace{}}
                                                    & & \\
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -802,7 +655,7 @@ look up `weird error' in the index to The TeXbook.)
 /home/vadym/Desktop/daryna/лаба.tex:107: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.107 ...{1}{*}{} & \underline{{ЛР 12}\hspace{}}
+l.107 ...w{1}{*}{} & \underline{{ЛР 5}\hspace{}}
                                                    & & \\
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -811,19 +664,166 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-/home/vadym/Desktop/daryna/лаба.tex:108: Missing number, treated as zero.
+/home/vadym/Desktop/daryna/лаба.tex:109: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.108 ...{1}{*}{} & \underline{{ЛР 13}\hspace{}}
+l.109 ...w{1}{*}{} & \underline{{ЛР 6}\hspace{}}
                                                    & & \\
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/home/vadym/Desktop/daryna/лаба.tex:108: Illegal unit of measure (pt inserted).
+/home/vadym/Desktop/daryna/лаба.tex:109: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.108 ...{1}{*}{} & \underline{{ЛР 13}\hspace{}}
+l.109 ...w{1}{*}{} & \underline{{ЛР 6}\hspace{}}
+                                                   & & \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/home/vadym/Desktop/daryna/лаба.tex:111: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.111 ...w{1}{*}{} & \underline{{ЛР 7}\hspace{}}
+                                                   & & \\
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/home/vadym/Desktop/daryna/лаба.tex:111: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.111 ...w{1}{*}{} & \underline{{ЛР 7}\hspace{}}
+                                                   & & \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/home/vadym/Desktop/daryna/лаба.tex:113: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.113 ...w{1}{*}{} & \underline{{ЛР 8}\hspace{}}
+                                                   & & \\
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/home/vadym/Desktop/daryna/лаба.tex:113: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.113 ...w{1}{*}{} & \underline{{ЛР 8}\hspace{}}
+                                                   & & \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/home/vadym/Desktop/daryna/лаба.tex:115: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.115 ...w{1}{*}{} & \underline{{ЛР 9}\hspace{}}
+                                                   & & \\
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/home/vadym/Desktop/daryna/лаба.tex:115: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.115 ...w{1}{*}{} & \underline{{ЛР 9}\hspace{}}
+                                                   & & \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/home/vadym/Desktop/daryna/лаба.tex:117: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.117 ...{1}{*}{} & \underline{{ЛР 10}\hspace{}}
+                                                   & & \\
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/home/vadym/Desktop/daryna/лаба.tex:117: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.117 ...{1}{*}{} & \underline{{ЛР 10}\hspace{}}
+                                                   & & \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/home/vadym/Desktop/daryna/лаба.tex:119: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.119 ...{1}{*}{} & \underline{{ЛР 11}\hspace{}}
+                                                   & & \\
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/home/vadym/Desktop/daryna/лаба.tex:119: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.119 ...{1}{*}{} & \underline{{ЛР 11}\hspace{}}
+                                                   & & \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/home/vadym/Desktop/daryna/лаба.tex:121: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.121 ...{1}{*}{} & \underline{{ЛР 12}\hspace{}}
+                                                   & & \\
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/home/vadym/Desktop/daryna/лаба.tex:121: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.121 ...{1}{*}{} & \underline{{ЛР 12}\hspace{}}
+                                                   & & \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/home/vadym/Desktop/daryna/лаба.tex:123: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.123 ...{1}{*}{} & \underline{{ЛР 13}\hspace{}}
+                                                   & & \\
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/home/vadym/Desktop/daryna/лаба.tex:123: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.123 ...{1}{*}{} & \underline{{ЛР 13}\hspace{}}
                                                    & & \\
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -836,13 +836,13 @@ two letters. (See Chapter 27 of The TeXbook.)
 Here is how much of TeX's memory you used:
  7142 strings out of 478287
  110779 string characters out of 5849290
- 431618 words of memory out of 5000000
+ 433618 words of memory out of 5000000
  25265 multiletter control sequences out of 15000+600000
  477150 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,11n,63p,270b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on лаба.pdf (3 pages, 55411 bytes).
+Output written on лаба.pdf (3 pages, 55486 bytes).
 PDF statistics:
  30 PDF objects out of 1000 (max. 8388607)
  18 compressed objects within 1 object stream
