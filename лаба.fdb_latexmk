@@ -1,11 +1,11 @@
 # Fdb version 3
-["pdflatex"] 1764761455 "/home/vadym/Desktop/daryna/лаба.tex" "лаба.pdf" "лаба" 1764761455
+["pdflatex"] 1764785479 "/home/vadym/Desktop/daryna/лаба.tex" "лаба.pdf" "лаба" 1764785479
   "/etc/texmf/web2c/texmf.cnf" 1748783872 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/vadym/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1764703186 3308 eee81981029f67083258db36df06e523 ""
   "/home/vadym/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1764703189 3312 d199be9bd555944e2403193d58a0256a ""
   "/home/vadym/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm1200.tfm" 1764703183 3240 c2435f2b5cd66d4930bc29b8df87967e ""
   "/home/vadym/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm" 1764705368 3252 92d08740ce00199d6cf9ff4aaada81d1 ""
-  "/home/vadym/Desktop/daryna/лаба.tex" 1764761454 2261 c7ff2d44247cb9d8155e736326f77da5 ""
+  "/home/vadym/Desktop/daryna/лаба.tex" 1764785478 3719 0172335f601e03b52b8e26d9fca1bb61 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -73,8 +73,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1748936684 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1748936707 2802190 2b8b7e4829246549532e193b03138162 ""
-  "лаба.aux" 1764761455 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "лаба.tex" 1764761454 2261 c7ff2d44247cb9d8155e736326f77da5 ""
+  "лаба.aux" 1764785479 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "лаба.tex" 1764785478 3719 0172335f601e03b52b8e26d9fca1bb61 ""
   (generated)
   "лаба.aux"
   "лаба.log"
